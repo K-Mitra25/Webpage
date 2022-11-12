@@ -1,0 +1,96 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Lora', serif;
+}
+.head{
+  color: #AA8B50;
+  font-size: 5.625rem;
+  font-family: 'Kaushan Script', cursive;
+}
+.top{
+  background-color: #395144;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  position: relative;
+}
+.intro{
+  font-size: 1.5rem;
+  line-height: 2;
+  color: #F0EBCE;
+  margin:auto auto auto auto;
+  width: 70%;
+}
+.head-img{
+  position: absolute;
+  width: 15%;
+  right: 200px;
+  top:30px;
+}
+.head-img1{
+  left: 200px;
+  top: 30px;
+  position: absolute;
+  width: 15%
+}
+hr{
+  border: dotted #AA8B50 6px;
+  width:4%;
+  border-bottom: none;
+  margin:50px auto 50px auto;
+}
+h2{
+  color: #395144;
+  font-size: 3rem;
+  font-family: 'Albert Sans', sans-serif;
+}
+.middle{
+  padding-top: 20px;
+  padding-bottom: 50px;
+  background-color: #F0EBCE;
+}
+.pics{
+  width:70%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.pics1{
+  width:70%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.pics3{
+  width:50%;
+  float:left;
+  margin-right: 225px;
+}
+.pics2{
+  width: 50%;
+  float: right;
+  margin-left: 100px;
+}
+.paragraph{
+  padding-top: 140px;
+  padding-bottom: 150px;
+  font-size: 2.5rem;
+  line-height: 1;
+  color: #251B37;
+}
+.bottom{
+  background-color: #395144;
+  padding:50px 0 20px;
+  margin: 0;
+}
+.para{
+  font-size: 1.5rem;
+  margin: 20px auto auto auto;
+  width: 73%;
+  line-height: 2;
+  color: #F0EBCE;
+}
+.logo{
+  margin: 10px 20px 10px 20px;
+  width:5%;
+}
